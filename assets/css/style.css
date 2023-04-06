@@ -56,3 +56,27 @@ body {
     background-color: black;
     color: gold;
   }
+
+  footer {
+    height: 50px;
+  }
+  
+  .social-networks {
+    text-align: center;
+  }
+  
+  .social-networks li {
+    display: inline;
+  }
+  
+  .social-networks i {
+    font-size: 150%;
+    margin: 20px;
+  }
+  
+  #websitecredit {
+    color: black;
+    font-size: 0.8rem;
+    padding-bottom: 6px;
+    text-align: center;
+  }
