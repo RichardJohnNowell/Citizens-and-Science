@@ -148,9 +148,9 @@ button {
   height: 100%;
   border: 0;
   border-radius: 4px;
-  font-size: 1em;
+  font-size: 2em;
   background: #065cb7;
-  color: #044f9e;
+  color: red;
   cursor: pointer;
   opacity: 0;
   outline: none;
