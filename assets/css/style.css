@@ -57,6 +57,18 @@ body {
     color: gold;
   }
 
+  /* interviews */
+
+  .interviewee {
+    color: red;
+    font-weight: 600;
+  }
+
+  .interview_questions {
+    color: blue;
+    font-weight: 600;
+  }
+ 
   /* comment */
 
   footer {
