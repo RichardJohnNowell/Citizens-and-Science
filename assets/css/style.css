@@ -19,7 +19,7 @@ body {
   /* ----------------------------------------header */
   
   .header {
-    color: gold;
+    color: black;
     font-weight: bold;
     letter-spacing: 2px;
     padding-top: 10px;
@@ -53,8 +53,8 @@ body {
   }
   
   nav a:hover {
-    background-color: black;
-    color: gold;
+    background-color: #5781ff;
+    color: #57ff81;;
   }
 
   /* interviews */
