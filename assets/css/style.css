@@ -191,6 +191,15 @@ button.is-done {
   opacity: 1;
 }
 
+/* Jotform */
+
+#JotFormIFrame-230943552692360 {
+  min-width: 100%;
+  max-width: 100%;
+  height: 539px;
+  border: none;
+}
+
 /* ----------------------------------------media queries */
 
 @media only screen and (min-width: 601px) {
