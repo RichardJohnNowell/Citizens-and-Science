@@ -25,17 +25,16 @@ body {
     font-weight: bold;
     letter-spacing: 2px;
     padding-top: 10px;
-    text-align: center;
+    padding-right: 1.0em;
   }
   
-  /* ----------------------------------------menu */
   
   nav ul {
-    background-color: #ffebcd;
-    border-radius: 10px;
+    border-style: solid;
+    border-radius: 8px;
     list-style: none;
     margin: auto;
-    padding: 0;
+    padding-right: 1.0em;
     text-align: center;
   }
   
