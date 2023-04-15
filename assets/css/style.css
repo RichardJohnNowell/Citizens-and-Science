@@ -61,11 +61,13 @@ body {
   .interviewee {
     color: red;
     font-weight: 600;
+    text-decoration: underline;
   }
 
   .interview_questions {
     color: blue;
     font-weight: 600;
+    text-decoration: underline;
   }
  
   /* ----------------------------------------flexbox */
