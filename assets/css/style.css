@@ -68,7 +68,7 @@ body {
     font-weight: 600;
   }
  
-  /* flexbox */
+  /* ----------------------------------------flexbox */
   .flex-container {
     display: flex;
     flex-flow: row wrap;
