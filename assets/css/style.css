@@ -118,9 +118,9 @@ body {
 
   /* ----------------------------------------activities */
 
-.section_activities {
-  text-align: center;
-}
+  .section_activities {
+    text-align: center;
+  }
 
 
 /* ----------------------------------------media queries */
