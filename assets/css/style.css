@@ -71,6 +71,83 @@ body {
     font-weight: 600;
     text-decoration: underline;
   }
+
+  /* ----------------------------------------image_sizing */
+
+  #grannies-photographing {
+    height: 238px;
+    width: 350px;
+  }
+
+  #cascades-butterfly-project {
+    height: 238px;
+    width: 350px;
+  }
+
+  #citizen-astronomers {
+    height: 237px;
+    width: 350px;
+  }
+
+  #citizen-science-communities {
+    height: 237px;
+    width: 350px;
+  }
+
+  #citizen-scientists-examining-plants {
+    height: 233px;
+    width: 350px;
+  }
+
+  #couple-with-log-fire {
+    height: 233px;
+    width: 350px;
+  }
+
+  #river-restoration-centre {
+    height: 239px;
+    width: 350px;
+  }
+
+  #iNaturalist-app {
+    height: 239px;
+    width: 350px;
+  }
+
+  #first-use {
+    height: 400px;
+    width: 350px;
+  }
+
+  #north-devon-biosphere {
+    height: 201px;
+    width: 350px;
+  }
+
+  #first-use-of-scientist {
+    height: 201px;
+    width: 350px;
+  }
+
+  #plastic-monitoring-project {
+    height: 234px;
+    width: 350px;
+  }
+
+  #woman-with-smartphone {
+    height: 234px;
+    width: 350px;
+  }
+
+  #air-quality-monitoring {
+    height: 240px;
+    width: 350px
+  }
+
+  #Picton-St-Bristol {
+    height: 240px;
+    width: 350px;
+  }
  
   /* ----------------------------------------flexbox */
   .flex-container {
