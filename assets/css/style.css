@@ -19,13 +19,10 @@ body {
   
   /* ----------------------------------------header */
   
-  .header {
-    color: black;
-    font-weight: bold;
-    letter-spacing: 2px;
-    padding-top: 2.2em;
-    padding-right: 1.0em;
-    text-align: center;
+  #topline {
+    color: blue;
+    letter-spacing: 3px;
+    font-weight: 600;
   }
   
   nav ul {
