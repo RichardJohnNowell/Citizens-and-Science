@@ -21,24 +21,24 @@ body {
   
   #topline {
     color: blue;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     font-weight: 600;
   }
   
   nav ul {
     border-color: blue;
     border-style: solid;
-    border-radius: 8px;
+    border-radius: 10px;
     list-style: none;
     margin: auto;
-    padding-right: 1.0em;
-    padding-top: 5px;
+    padding-right: 1.0rem;
+    padding-top: 0.5rem;
     text-align: center;
   }
   
   nav li {
     display: inline-block;
-    font-size: 1.2em;
+    font-size: 1.2rem;
     font-weight: 500;
     height: 40px;
     line-height: 40px;
@@ -167,8 +167,8 @@ body {
   }
   
   .flex-container > div {
-    margin: 10px;
-    padding: 20px;
+    margin: 0.625rem;
+    padding: 1.25rem;
   }
 
   /* ----------------------------------------Quiz */
@@ -197,7 +197,7 @@ body {
   /* ----------------------------------------footer */
 
   footer {
-    height: 50px;
+    height: 3.0rem;
   }
   
   .social-networks {
@@ -210,13 +210,13 @@ body {
   
   .social-networks i {
     font-size: 150%;
-    margin: 20px;
+    margin: 1.25rem;
   }
   
   #websitecredit {
     color: black;
     font-size: 0.8rem;
-    padding-bottom: 6px;
+    padding-bottom: 0.3rem;
     text-align: center;
   }
 
@@ -228,6 +228,12 @@ body {
 
 
 /* ----------------------------------------media queries */
+
+ @media only screen and (min-width: 601px) {
+     #topline {
+      width: 100%;
+     }
+ }
 
 
 @media only screen and (min-width: 601px) {
