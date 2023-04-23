@@ -171,6 +171,14 @@ body {
     padding: 20px;
   }
 
+  /* ----------------------------------------Quiz */
+
+  .quiz {
+    color:blue;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+
   /* ----------------------------------------Jotform */
 
   #JotFormIFrame-230943552692360 {
