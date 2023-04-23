@@ -188,6 +188,12 @@ body {
     border: none;
   }
 
+  #jotform_text {
+    color: blue;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+
   /* ----------------------------------------footer */
 
   footer {
