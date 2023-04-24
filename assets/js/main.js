@@ -29,5 +29,5 @@ const citizenQuestionsAct = [
     }
   }
 
-  citizenQuizAct();
+
 //end
