@@ -29,5 +29,5 @@ const citizenQuestionsAch = [
     }
   }
      
-  citizenQuizAch();
+  
 //end
