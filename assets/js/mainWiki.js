@@ -31,5 +31,5 @@ const citizenQuestionsWiki = [
    }
  }
 
- //citizenQuizWiki();
+ 
 //end
