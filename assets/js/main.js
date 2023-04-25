@@ -1,5 +1,9 @@
 // start of activities page quiz
 // an array of read-only questions and answers
+
+let btn = document.getElementById("citizenQuizAct");
+btn.addEventListener("click", alertMe);
+
 const citizenQuestionsAct = [
     { answer: "C", question: "If you wanted to help clean-up marine plastic? \nA - The Wildlife Trusts\nB - National Geographic\nC - Ocean Cleanup"},
     { answer: "B", question: "If you wanted to help monitor urban woodsmoke pollution? \nA - UK Centre for Hydrology\nB - Citizen Sensing\nC - Guardian Vacations"},
