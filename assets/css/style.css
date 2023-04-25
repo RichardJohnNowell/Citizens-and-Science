@@ -128,34 +128,19 @@ body {
     width: 350px;
   }
 
-  #north-devon-biosphere {
-    height: 201px;
-    width: 350px;
-  }
-
   #first-use-of-scientist {
     height: 201px;
     width: 350px;
   }
 
   #plastic-monitoring-project {
-    height: 234px;
-    width: 350px;
-  }
-
-  #woman-with-smartphone {
-    height: 234px;
+    height: 237px;
     width: 350px;
   }
 
   #air-quality-monitoring {
-    height: 240px;
+    height: 237px;
     width: 350px
-  }
-
-  #Picton-St-Bristol {
-    height: 240px;
-    width: 350px;
   }
  
   /* ----------------------------------------flexbox */
