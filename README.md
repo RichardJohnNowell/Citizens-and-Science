@@ -340,9 +340,13 @@ mainly for performance issues.
     </a>
     </li>
     <li> Medicine from garbage? by Paul McQuiston:
-    <a href="https://news.usc.edu/203944/great-pacific-garbage-patch-plastics-pharmaceuticals" title="Medicine from garbage?" alt="Medicine from garbage?" target="_blank" rel="noopener">Medicine from garbage? New process shows promise.
+    <a href="https://news.usc.edu/203944/great-pacific-garbage-patch-plastics-pharmaceuticals" title="Medicine from garbage?" alt="Medicine from garbage?"                 rel="noopener" target="_blank">Medicine from garbage? New process shows promise.
     </a>
     </li>
-</ul>
+    <li> Citizen science: How families can contribute to real science
+    <a href="https://www.csmonitor.com/The-Culture/Family/Modern-Parenthood/2013/0404/Citizen-science-How-families-can-contribute-to-real-science" title="space 
+    scientist" alt="space scientist" title="_blank" rel="noopener">Space scientists.
+    </a>
+   </ul>
     <!--- end of credits --->
     <!--- end of readme --->
