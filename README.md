@@ -21,6 +21,7 @@
 <!--- page line --->
 --- 
 <!--- introduction --->
+
 ## Introduction
 
 Citizen science has been a part of my life since 2007 when I started taking part in
@@ -39,9 +40,10 @@ projects, which include those who prefer to stay inside and participate
 via a desktop (like myself) or those who want to get outside and get water samples,
 for instance. There are links to academic studies for those who want to join in or who 
 are sceptical about whether anything is worthwhile: as I explain, hard cash is used
-to fund this scientific work..
+to fund this scientific work.
 <!--- end of introduction --->
 <!--- user expectations --->
+
 ## Expectations
 
 Through this website, I hope to introduce people to what citizen science is and the activities
@@ -53,6 +55,7 @@ Please use the links: they will become very important when trying to
 answer the three quizzes!
 <!--- end of expectations --->
  <!--- user experience --->
+ 
 ## UserExperience
 <div>
     <ul>
@@ -73,8 +76,12 @@ answer the three quizzes!
         </li>
     </ul>
 </div>
-<p> The colour scheme is based around a blue colour and complimentary colours, as below:
-</p>
+<p> The colour scheme is based around a blue colour and complimentary colours, as below:</p>
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/colours_used.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/colours_used.jpg?raw=true"                   width="350" height="128" id="CSFE_colours" title="CSFE_colours" alt="CSFE_colours">
+            </a>
+<div>
 <!--- features --->
 
 ## Features
@@ -238,10 +245,16 @@ which is a good way to introduce people to the larger picture.
 There is also a Jotform should you wish to enquire more about any aspect of the website.
     <!--- end of contacts >
     <!--- footer --->
+    
 ### Footer
-    <!--- end of footer --->
-    <!--- end of features>
+<p>While there is no organisation that can be linked to, three links are given to Facebook, Twitter and Instagram. Image below:</p>
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/footer.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/footer.jpg?raw=true"                     width="334" height="165" id="CSFE_footer" title="CSFE_footer" alt="CSFE_footer">
+        </a>
+</div>
     <!--- testing -->
+    
 ## Testing
 The website was assembled using HTML5, CSS3 and JS2015. I used
 the desktop program Microsoft VS code and online Gitpod. I used Gitpod
