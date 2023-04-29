@@ -1,6 +1,7 @@
 <!--- start of readme --->
 # CITIZEN SCIENCE FOR EVERYONE!
 <!--- table of contents --->
+
 ## Contents
 * [Introduction](#introduction)
 * [Expectations](#expectations)
@@ -57,9 +58,9 @@ answer the three quizzes!
  <!--- user experience --->
  
 ## UserExperience
-<div>
+<div align="left">
     <ul>
-        <li>Featured on all three pages, the full responsive navigation bar includes links to each page to allow for easy navigation.
+        <li>Featured on all five pages, the full responsive navigation bar includes links to each page to allow for easy navigation.
         </li>
         <li>Text is easy-to-read with a black Raneway text against an almost white background.
         </li>
@@ -101,7 +102,7 @@ free, high resolution images which can be clicked on to see the full size.
 
 The homepage will seek to introduce the reader to what citzen science is and where the
 term comes from. It will pose questions such as:
-<div>
+<div align="left">
     <ul>
         <li>What is citizen science?
         </li>
@@ -168,7 +169,7 @@ videos can inform potential citizen scientists about what might be available.
 Each are around 5 or 6 minutes long.
 
 The 8 citizen science projects are:
-<div>
+<div align="left">
     <ol>
         <li>The Bristol Approach: what is citizen sensing?
         </li>
@@ -210,7 +211,7 @@ Certainly the quiz on this page needs some
 knowledge of the studies linked to!
 
 The eight academic studies are:
-<div>
+<div align="left">
     <ol>
         <li>"Describing Vocalizations in Young Children: A Big Data Approach Through Citizen Science Annotation."
         </li>
@@ -271,11 +272,15 @@ The site was found to be responsive and all links worked, including the image li
     <!--- end of testing --->
     <!--- deployment --->
 ## Deployment
+   
     <!--- end of deployment --->
     <!--- validation --->
+   
 ## Validation
+   
     <!--- end of validation --->
     <!--- wireframes --->
+   
 ## Wireframes
 Fifteen wireframes were made using the website Balsamiq. They encompassed iPhone, browser and iPad. Three are
 shown below. As can be seen, while some pages have not changed much, others have lost videos or images,
@@ -306,60 +311,61 @@ mainly for performance issues.
 
 ## Credits
 
-<ul>
-    <li> Thanks to Muki Hacklay form University College London. His blog provided two images and information:
-    <a href="https://povesham.wordpress.com/2014/09/10/citizen-science-in-oxford-english-dictionary" title="Muki Hacklay" alt="Muki Hacklay" target="_blank" rel="noopener">Muki Hacklay.
-    </a>
-    </li>
-    <li>
-    Background image of scientists from Freepik:
-    <a href="https://www.freepik.com/free-photo/scientists-working-lab-medium-shot_14309249.htm#from_view=detail_serie" title="freepik scientists" alt="freepik scientists" target="_blank" rel="noopener">Freepik scientists.
-    </a>
-    </li>
-    <li> Two grandmothers diving and photographing sea snake (Wiki Commons):
-    <a href="https://commons.wikimedia.org/wiki/File:Two_grandmothers_diving_around_a_greater_sea_snake_Hydrophis_major,_photographing_the_snake%27s_tail_for_identification_-_Ecs22877-fig-0003-m.jpg" title="diving grannies" alt="diving grannies" target="_blank" rel="noopener">Diving grannies imaging sea snake.
-    </a>
-    </li>
-    <li>Cascades butterfly project team (Wiki Commmons):
-     <a href="https://upload.wikimedia.org/wikipedia/commons/4/44/Cascades_Butterfly_Project_Team_%288273990532%29.jpg" title="Cascades butterfly project" alt="Cascades butterfly project" target="_blank" rel="noopener">The Cascades butterfly project.
-    </a>
-    </li>
-    <li>Citizen Science Communities (Wiki Commons):
-    <a href="https://commons.wikimedia.org/wiki/File:Citizen_Science_Communities.jpg" title="Citizen science communities" alt="Citizen science communities" target="_blank" rel="noopener">Citizen science communities.
-    </a>
-    </li>
-    <li> Couple sitting by fireplace from Freepik:
-    <a href="https://www.freepik.com/free-photo/high-angle-people-sitting-by-fireplace_26923115.htm#page=2&query=wood%20burning%20stove&position=25&from_view=keyword&track=ais" title="Couple and log fire" alt="Couple and log fire" target="_blank" rel="noopener">Couple and log fire.
+<div align="left">
+    <ul>
+        <li> Thanks to Muki Hacklay form University College London. His blog provided two images and information:
+        <a href="https://povesham.wordpress.com/2014/09/10/citizen-science-in-oxford-english-dictionary" title="Muki Hacklay" alt="Muki Hacklay" target="_blank"                  rel="noopener">Muki Hacklay.
+        </a>
+        </li>
+        <li> Background image of scientists from Freepik:
+        <a href="https://www.freepik.com/free-photo/scientists-working-lab-medium-shot_14309249.htm#from_view=detail_serie" title="freepik scientists" alt="freepik             scientists" target="_blank" rel="noopener">Freepik scientists.
+        </a>
+        </li>
+        <li> Two grandmothers diving and photographing sea snake (Wiki Commons):
+        <a href="https://commons.wikimedia.org/wiki/File:Two_grandmothers_diving_around_a_greater_sea_snake_Hydrophis_major,_photographing_the_snake%27s_tail_for_identification_-_Ecs22877-fig-0003-m.jpg" title="diving grannies" alt="diving grannies" target="_blank" rel="noopener">Diving grannies imaging sea snake.
+       </a>
+       </li>
+       <li>Cascades butterfly project team (Wiki Commmons):
+       <a href="https://upload.wikimedia.org/wikipedia/commons/4/44/Cascades_Butterfly_Project_Team_%288273990532%29.jpg" title="Cascades butterfly project" alt="Cascades butterfly project" target="_blank" rel="noopener">The Cascades butterfly project.
+      </a>
+      </li>
+      <li>Citizen Science Communities (Wiki Commons):
+      <a href="https://commons.wikimedia.org/wiki/File:Citizen_Science_Communities.jpg" title="Citizen science communities" alt="Citizen science communities" target="_blank" rel="noopener">Citizen science communities.
+      </a>
+      </li>
+      <li> Couple sitting by fireplace from Freepik:
+      <a href="https://www.freepik.com/free-photo/high-angle-people-sitting-by-  fireplace_26923115.htm#page=2&query=wood%20burning%20stove&position=25&from_view=keyword&track=ais" title="Couple and log fire" alt="Couple and log fire" target="_blank" rel="noopener">Couple and log fire.
+      </a>
+      </li>
+      <li> The River Restoration Centre
+      <a href="https://www.therrc.co.uk/citizen-science" title="River Restoration Centre" alt="River Restoration Centre" target="_blank" rel="noopener"> The River Restoration Centre.
+      </a>
+     </li> 
+     <li>Storybench and iNaturalist by Jessica Decker
+     <a href="https://www.storybench.org/how-a-citizen-science-app-with-over-70000-users-is-creating-local-community" title="Storybench and iNaturalist" alt="Storybench and iNaturalist" target="_blank" rel="noopener">Storybench and iNaturalist.
      </a>
-    </li>
-    <li> The River Restoration Centre
-    <a href="https://www.therrc.co.uk/citizen-science" title="River Restoration Centre" alt="River Restoration Centre" target="_blank" rel="noopener"> The River Restoration Centre.
-    </a>
-   </li> 
-    <li>Storybench and iNaturalist by Jessica Decker
-    <a href="https://www.storybench.org/how-a-citizen-science-app-with-over-70000-users-is-creating-local-community" title="Storybench and iNaturalist" alt="Storybench and iNaturalist" target="_blank" rel="noopener">Storybench and iNaturalist.
-    </a>
-    </li>
-    <li>Eco Sapien - What is Citizen Science?
-    <a href="https://www.youtube.com/watch?v=UDR6YKjkh-0" title="What is citizen science?" alt="What is citizen science?" target="_blank" rel="noopener">What is Citizen Science?
-    </a>
-    </li>
-    <li>Citizen Scientists - Afon Llynfi
-    <a href="https://www.youtube.com/watch?v=1hnKOSfj7sU" title="Citizen Scientists - Afon Llynfi" alt="Citizen Scientists - Afon Llynfi" target="_blank" rel="noopener">Friends of the Upper Wye river.
-    </a>
-    </li>
-    <li>The discovery of a citizen scientist by Hanny van Arkel on TEDxGhent:
-    <a href="https://www.youtube.com/watch?v=p0aTfcXpOEs" title="Hanny van Arkel" alt="Hanny van Arkel" target="_blank" rel="noopener">Hanny van Arkel on TEDxGhent.
-    </a>
-    </li>
-    <li> Medicine from garbage? by Paul McQuiston:
-    <a href="https://news.usc.edu/203944/great-pacific-garbage-patch-plastics-pharmaceuticals" title="Medicine from garbage?" alt="Medicine from garbage?"                 rel="noopener" target="_blank">Medicine from garbage? New process shows promise.
-    </a>
-    </li>
-    <li> Citizen science: How families can contribute to real science
-    <a href="https://www.csmonitor.com/The-Culture/Family/Modern-Parenthood/2013/0404/Citizen-science-How-families-can-contribute-to-real-science" title="space 
-    scientist" alt="space scientist" title="_blank" rel="noopener">Space scientists.
-    </a>
+     </li>
+     <li>Eco Sapien - What is Citizen Science?
+     <a href="https://www.youtube.com/watch?v=UDR6YKjkh-0" title="What is citizen science?" alt="What is citizen science?" target="_blank" rel="noopener">What is        Citizen Science?
+     </a>
+     </li>
+     <li>Citizen Scientists - Afon Llynfi
+     <a href="https://www.youtube.com/watch?v=1hnKOSfj7sU" title="Citizen Scientists - Afon Llynfi" alt="Citizen Scientists - Afon Llynfi" target="_blank" rel="noopener">Friends of the Upper Wye river.
+     </a>
+     </li>
+     <li>The discovery of a citizen scientist by Hanny van Arkel on TEDxGhent:
+     <a href="https://www.youtube.com/watch?v=p0aTfcXpOEs" title="Hanny van Arkel" alt="Hanny van Arkel" target="_blank" rel="noopener">Hanny van Arkel on TEDxGhent.
+     </a>
+     </li>
+     <li> Medicine from garbage? by Paul McQuiston:
+     <a href="https://news.usc.edu/203944/great-pacific-garbage-patch-plastics-pharmaceuticals" title="Medicine from garbage?" alt="Medicine from garbage?"                  rel="noopener" target="_blank">Medicine from garbage? New process shows promise.
+     </a>
+     </li>
+     <li> Citizen science: How families can contribute to real science
+     <a href="https://www.csmonitor.com/The-Culture/Family/Modern-Parenthood/2013/0404/Citizen-science-How-families-can-contribute-to-real-science" title="space 
+     scientist" alt="space scientist" title="_blank" rel="noopener">Space scientists.
+     </a>
    </ul>
+</div>
     <!--- end of credits --->
     <!--- end of readme --->
