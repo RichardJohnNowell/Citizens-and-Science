@@ -257,24 +257,12 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
     <!--- testing -->
     
 ## Testing
-The website was assembled using HTML5, CSS3 and JS2015. I used
-the desktop program Microsoft VS code and online Gitpod. I used Gitpod
-a lot more this time tah in the previous project for clarity and to practise in a more professional setting
+The website was assembled using HTML5, CSS3 and JS2015. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod a lot more this time than in the previous project for clarity and to practise in a more professional setting. Code Beautify was used to tidy code and helped reveal poorly-executed code. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" separate desktop screen. Three browsers Firefox, Chrome and MS Edge were checked.
+My AIO desktop is an up-to-date Linux Ubuntu with a 24" screen. This displayed the images well, though some of the styling looked odd.
 
-Code Beautify was used to tidy code and helped reveal poorly-executed code. 
-When I felt that the coding was ready, I validated it using the W3.org website as is wanted - 
-the latest validation being on the 1 May 2023. The website was viewed with several 
-android phones, Windows 10 laptops, an iPad and a 24" seperate desktop screen. Three browsers Firefox, Chrome and MS Edge were checked.
- My AIO desktop is an up-to-date Linux Ubuntu with a 24" screen. This displayed
-the images well, though some of the styling looked odd.
-
-The site was found to be responsive and all links worked, including the image links to the data hosting site.
-    <!--- end of testing --->
-    <!--- deployment --->
 ## Deployment
-   
-    <!--- end of deployment --->
-    <!--- validation --->
+
+The website was deployed on the 16th April 2023 using GitHub pages. The site was found to be responsive and all links worked, including the image links to the data hosting site. Wireframes and development images were used to tweak layout, while two YouTube video links and four pictures that were found to reduce performance using Page Speed Insights were removed. 
    
 ## Validation
    
@@ -364,6 +352,10 @@ mainly for performance issues.
      <li> Citizen science: How families can contribute to real science
      <a href="https://www.csmonitor.com/The-Culture/Family/Modern-Parenthood/2013/0404/Citizen-science-How-families-can-contribute-to-real-science" title="space 
      scientist" alt="space scientist" title="_blank" rel="noopener">Space scientists.
+     </a>
+     <li> The ISeeChange project is a global community that documents local changes in environment, weather, and climate.
+     <a href="https://scistarter.org/nlm/iseechange-nlm" title="ISeeChange" alt="ISeeChange" title="_blank" rel="noopener">Environmental pollution.
+     </li>
      </a>
    </ul>
 </div>
