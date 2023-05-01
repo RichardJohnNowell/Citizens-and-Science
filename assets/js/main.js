@@ -18,6 +18,11 @@ const citizenQuestionsAct = [
      citizenQuestionsAct.forEach((question) => {
       // window.prompt method
      let answer = prompt(question.question + "\nAnswer: ");
+              //    if (answer === [A,B,C]) {
+     //    answer = true;
+     //    } else {
+     //      alert("Please enter A, B or C");
+     //    }
        if (answer.toUpperCase() === question.answer) {
        score = score + 1;
        alert("Your answer is correct. Your score is currently " + score);
