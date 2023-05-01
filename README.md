@@ -1,5 +1,7 @@
 <!--- start of readme --->
+<div align="center">
 # CITIZEN SCIENCE FOR EVERYONE!
+</div>
 <!--- table of contents --->
 
 <div align="center">
