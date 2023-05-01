@@ -283,8 +283,10 @@ Fifteen wireframes were made using the website Balsamiq. They encompassed iPhone
 shown below. As can be seen, while some pages have not changed much, others have lost videos or images,
 mainly for performance issues.
 
-<p>Link to wireframe folders:</p>
-<a href="https://github.com/RichardJohnNowell/Citizens-and-Science/tree/main/assets/C%26S_Wireframes">
+<p>Link to wireframe folders: <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/tree/main/assets/C%26S_Wireframes">CSFE Wireframes.
+</a>
+</p>
+
 
 <!--- comment --->
 <p>Pictures can be clicked on for full size.</p>
