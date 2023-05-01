@@ -18,7 +18,8 @@ const citizenQuestionsAct = [
      citizenQuestionsAct.forEach((question) => {
       // window.prompt method
      let answer = prompt(question.question + "\nAnswer: ");
-              //    if (answer === [A,B,C]) {
+     //    if input is A,B,C or a,b,c, then continue. If it is not, then alert ("Please enter A, B or C").   
+     //    if (answer === [A,B,C]) {
      //    answer = true;
      //    } else {
      //      alert("Please enter A, B or C");
