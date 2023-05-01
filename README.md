@@ -71,7 +71,7 @@ answer the three quizzes!
     <ul>
         <li>Featured on all five pages, the full responsive navigation bar includes links to each page to allow for easy navigation.
         </li>
-        <li>Text is easy-to-read with a black Raneway text against an almost white background.
+        <li>Text is easy-to-read with a black Raleway text against an almost white background.
         </li>
         <li>Paragraphs within pages are sensibly organised with a logical procession of subjects.
         </li>
@@ -89,7 +89,7 @@ answer the three quizzes!
 <p> The colour scheme is based around a blue colour and complimentary colours, as below:</p>
 <div align="center">
         <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/colours_used.jpg?raw=true">
-            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/colours_used.jpg?raw=true"                   width="350" height="128" id="CSFE_colours" title="CSFE_colours" alt="CSFE_colours">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/colours_used.jpg?raw=true" width="350" height="128" id="CSFE_colours" title="CSFE_colours" alt="CSFE_colours">
             </a>
 <div>
 <!--- features --->
@@ -267,7 +267,7 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
     
 ## Testing
 The website was assembled using HTML5, CSS3 and JS2015. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod a lot more this time than in the previous project for clarity and to practise in a more professional setting. Code Beautify was used to tidy code and helped reveal poorly-executed code. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" separate desktop screen. Three browsers Firefox, Chrome and MS Edge were checked.
-My AIO desktop is an up-to-date Linux Ubuntu with a 24" screen. This displayed the images well, though some of the styling looked odd.
+My DELL AIO desktop is an up-to-date Linux Ubuntu with a 24" screen. This displayed the images well, though some of the styling looked odd.
 
 ## Deployment
 
