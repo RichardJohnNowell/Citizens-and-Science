@@ -2,6 +2,13 @@
 # CITIZEN SCIENCE FOR EVERYONE!
 <!--- table of contents --->
 
+<div align="center">
+    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/CSFE_Combi.jpg?raw=true">
+    <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/CSFE_Combi.jpg?raw=true" id="CSFE_Combi" 
+         title="CSFE_Combi" alt="CSFE_Combi">
+    </a>
+</div>
+
 ## Contents
 * [Introduction](#introduction)
 * [Expectations](#expectations)
