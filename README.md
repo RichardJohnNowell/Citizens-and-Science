@@ -4,12 +4,7 @@
 
 <!--- table of contents --->
 
-<div align="center">
-    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/CSFE_Combi.jpg?raw=true">
-    <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/CSFE_Combi.jpg?raw=true" id="CSFE_Combi" 
-         title="CSFE_Combi" alt="CSFE_Combi">
-    </a>
-</div>
+
 
 ## Contents
 * [Introduction](#introduction)
@@ -87,22 +82,14 @@ answer the three quizzes!
     </ul>
 </div>
 <p> The colour scheme is based around a blue colour and complimentary colours, as below:</p>
-<div align="center">
-        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/colours_used.jpg?raw=true">
-            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/colours_used.jpg?raw=true" width="350" height="128" id="CSFE_colours" title="CSFE_colours" alt="CSFE_colours">
-            </a>
-<div>
+
 <!--- features --->
 
 ## Features
 <!--- homepage --->
 
 ### Homepage
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/ CSFE_Tablet_Size/iPad_Pro_Homepage.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Homepage.jpg" width="350" height="505" id="iPad_Pro_Homepage" title="iPad_Pro_Homepage" alt="iPad_Pro_Homepage">
-        </a>
-</div>
+
 The homepage has image background of scientists working that has been
 changed using an opacity effect. This is quite deliberate as it is
 countered by images of citizen scientists, for example grandmothers
@@ -131,11 +118,7 @@ term comes from. It will pose questions such as:
 
 ### Interviews
 
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Interviews_page.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Interviews_page.jpg" width="350" height="539" id="iPad_Pro_Interviews" title="iPad_Pro_Interviews" alt="iPad_Pro_Interviews">
-        </a>
-</div>
+
 <p>
 I asked three friends I have got to know over the decades since 2007 and how they feel about CS.
 Alice Sheppard works for University College London's geography dept. She is the community lead for the EXCITe project and as such meets
@@ -161,11 +144,7 @@ a wide variety of people and is used by educational establishments.
 
 ### Activities
 
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Activities_page.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Activities_page.jpg" width="350" height="533" id="iPad_Pro_Activities" title="iPad_Pro_Activities" alt="iPad_Pro_Activities">
-        </a>
-</div>
+
 
 This page will introduce the reader to the astounding number and range
 of different CS projects and includes a simple quiz to help people
@@ -201,11 +180,7 @@ The 8 citizen science projects are:
 <!--- achievements --->
 
 ### Achievements
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Achievements_page.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Achievements_page.jpg" width="350" height="508" id="iPad_Pro_Achievements" title="iPad_Pro_Achievements" alt="iPad_Pro_Achievements">
-        </a>
-</div>
+
 A somewhat specialist page that demonstrates that citizens
 can do real science and the results can be scientifically worthwhile.
 As the opening paragraph points out, if citizen science didn't produce 
@@ -243,11 +218,7 @@ The eight academic studies are:
 <!--- contacts --->
 
 ### Contact
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Contacts_page.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Final_Website_images/CSFE_Tablet_Size/iPad_Pro_Contacts_page.jpg" width="350" height="495" id="iPad_Pro_Contacts" title="iPad_Pro_Contacts" alt="iPad_Pro_Contacts">
-        </a>
-</div>
+
 The contacts page has a quiz that takes the user via a link
 to the Wikipedia article "Citizen Science". This is a large article and the quiz is difficult,
 which is a good way to introduce people to the larger picture.
@@ -258,11 +229,7 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
     
 ### Footer
 <p>While there is no organisation that can be linked to, three links are given to Facebook, Twitter and Instagram. Image below:</p>
-<div align="center">
-        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/footer.jpg?raw=true">
-            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/C&S_Final_Website_images/CSFE_Full_Screen/footer.jpg?raw=true"                     width="334" height="165" id="CSFE_footer" title="CSFE_footer" alt="CSFE_footer">
-        </a>
-</div>
+
     <!--- testing -->
     
 ## Testing
@@ -283,30 +250,10 @@ Fifteen wireframes were made using the website Balsamiq. They encompassed iPhone
 shown below. As can be seen, while some pages have not changed much, others have lost videos or images,
 mainly for performance issues.
 
-<p>Link to wireframe folders: <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/tree/main/assets/C%26S_Wireframes">CSFE Wireframes.
-</a>
-</p>
 
 
-<!--- comment --->
-<p>Pictures can be clicked on for full size.</p>
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Wireframes/C%26S_iPhone/C%26S_iPone_Home.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Wireframes/C%26S_iPhone/C%26S_iPone_Home.jpg" width="221" height="439" title="iPhone_wireframe_home" id="iPhone_wireframe_home" alt="iPhone_wireframe_home">
-        </a>
-</div>
-<!--- comment --->
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Wireframes/C%26S_iPad/C%26S_iPad_Home.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Wireframes/C%26S_iPad/C%26S_iPad_Home.jpg" width="312" height="464" title="iPad_wireframe_home" id="iPad_wireframe_home" alt="iPad_wireframe_home">
-        </a>
-</div>
-<!--- comment --->
-<div align="center">
-        <a href="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Wireframes/C%26S_Browser/C%26S_Browser_Home.jpg">
-            <img src="https://raw.githubusercontent.com/RichardJohnNowell/Citizens-and-Science/main/assets/C%26S_Wireframes/C%26S_Browser/C%26S_Browser_Home.jpg" width="350" height="186" title="Browser_wireframe_home" id="Browser_wireframe_home" alt="Browser_wireframe_home">
-        </a>
-</div>  
+
+>  
 
 ## Credits
 
