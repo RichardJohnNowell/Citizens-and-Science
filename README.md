@@ -268,7 +268,6 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
         </a>
 </div>
 
-    <!--- testing -->
     
 ## Testing
 The website was assembled using HTML5, CSS3 and JS2015. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod
@@ -294,6 +293,36 @@ icons using a v6.4 kit. CSS styling linked through GitHub worked as did the scri
    
 Validation was used from the W3 html and css validation websites, while JavaScript was tested using JS Hint (screenshots below). Pagespeed Insights was 
 used to test for accessibility for each page using mobile and desktop results. All pages cleared accessibility tests on mobiles and desktops, each scoring 100.
+
+<div align="center">
+    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-home.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-home.jpg?raw=true" width="350" height="196" title="csfe-html-valid-home" id="csfe-html-valid-home" alt="csfe-html-valid-home">
+</div>
+
+<div align="center">
+    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-interviews.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-interviews.jpg?raw=true" width="350" height="196" title="csfe-html-validation-interviews" id="csfe-html-validation-interviews" alt="csfe-html-validation-interviews">
+</div>
+
+<div align="center">
+    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-activities.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-activities.jpg?raw=true" width="350" height="196" title="csfe-html-validation-activities" id="csfe-html-validation-activities" alt="csfe-html-validation-activities">
+</div>
+
+<div align="center">
+    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-achievements.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-achievements.jpg?raw=true" width="350" height="196" title="csfe-html-validation-achievements" id="csfe-html-validation-achievements" alt="csfe-html-validation-achievements">
+</div>
+
+<div align="center">
+    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-contacts.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-html-validation-contacts.jpg?raw=true" width="350" height="196" title="csfe-html-validation-contacts" id="csfe-html-validation-contacts" alt="csfe-html-validation-contacts">
+</div>
+
+<div align="center">
+    <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-css-validation.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-css-validation.jpg?raw=true" width="350" height="196" title="csfe-css-validation" id="csfe-css-validation" alt="csfe-css-validation">
+</div>
    
 ## Wireframes
 
