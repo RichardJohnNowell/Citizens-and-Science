@@ -82,6 +82,11 @@ answer the three quizzes!
     </ul>
 </div>
 <p> The colour scheme is based around a blue colour and complimentary colours, as below:</p>
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-colours.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-colours.jpg?raw=true" width="350" height="127" id="csfe_colours" title="csfe_colours" alt="csfe_colours">
+            </a>
+<div>
 
 <!--- features --->
 
@@ -89,6 +94,12 @@ answer the three quizzes!
 <!--- homepage --->
 
 ### Homepage
+
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-homepage.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-homepage.jpg?raw=true" width="350" height="163" id="csfe-browser-homepage" title="csfe-browser-homepage" alt="csfe-browser-homepage">
+        </a>
+</div>
 
 The homepage has image background of scientists working that has been
 changed using an opacity effect. This is quite deliberate as it is
@@ -118,6 +129,12 @@ term comes from. It will pose questions such as:
 
 ### Interviews
 
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-interviews-page.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-interviews-page.jpg?raw=true" width="350" height="163" title="csfe-browser-interviews" id="csfe-browser-interviews"  alt="csfe-browser-interviews">
+        </a>
+</div>
+
 
 <p>
 I asked three friends I have got to know over the decades since 2007 and how they feel about CS.
@@ -144,7 +161,11 @@ a wide variety of people and is used by educational establishments.
 
 ### Activities
 
-
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-activities-page.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-activities-page.jpg?raw=true" width="350" height="164" title="csfe-browser-activities" id="csfe-browser-activities" alt="csfe-browser-activities">
+        </a>
+</div>
 
 This page will introduce the reader to the astounding number and range
 of different CS projects and includes a simple quiz to help people
@@ -180,6 +201,12 @@ The 8 citizen science projects are:
 <!--- achievements --->
 
 ### Achievements
+
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-achievements-page.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-achievements-page.jpg?raw=true" width="350" height="162" title="csfe-browser-achievements" id="csfe-browser-achievements" alt="csfe-browser-achievements">
+        </a>
+</div>
 
 A somewhat specialist page that demonstrates that citizens
 can do real science and the results can be scientifically worthwhile.
@@ -219,6 +246,12 @@ The eight academic studies are:
 
 ### Contact
 
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-contacts-page.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-contacts-page.jpg?raw=true" width="350" height="163" title="csfe-browser-contacts" id="csfe-browser-contacts"  alt="csfe-browser-contacts">
+        </a>
+</div>
+
 The contacts page has a quiz that takes the user via a link
 to the Wikipedia article "Citizen Science". This is a large article and the quiz is difficult,
 which is a good way to introduce people to the larger picture.
@@ -229,6 +262,11 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
     
 ### Footer
 <p>While there is no organisation that can be linked to, three links are given to Facebook, Twitter and Instagram. Image below:</p>
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-footer.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-footer.jpg?raw=true" width="334" height="165" title="csfe-browser-footer" id="csfe-browser-footer"  alt="csfe-browser-footer">
+        </a>
+</div>
 
     <!--- testing -->
     
