@@ -271,27 +271,36 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
     <!--- testing -->
     
 ## Testing
-The website was assembled using HTML5, CSS3 and JS2015. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod a lot more this time than in the previous project for clarity and to practise in a more professional setting. Code Beautify was used to tidy code and helped reveal poorly-executed code. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" separate desktop screen. Three browsers Firefox, Chrome and MS Edge were checked.
-My DELL AIO desktop is an up-to-date Linux Ubuntu with a 24" screen. This displayed the images well, though some of the styling looked odd.
+The website was assembled using HTML5, CSS3 and JS2015. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod
+a lot more this time than in the previous project for clarity and to practise in a more professional setting. The website was continously tested during
+its build with W3 validations, PageSpeed Insights and JSHint. No AI was used in the construction of the code.
+
+Code Beautify was used to tidy code and helped reveal poorly-executed code. The website was viewed with several android phones, Windows 10 laptops, an iPad and 
+a 24" separate desktop screen. Three browsers Firefox, Chrome and MS Edge were checked. My DELL AIO desktop has an up-to-date Linux Ubuntu OS with a 24" screen. 
+This displayed the images well, though some of the styling looked odd.
+
+With the code at the present time, no bugs were found. Performance suffered on the pages with embedded YouTube links. All links were found to work using
+the buttons provided. The 3 quizzes have 5 questions each with 3 possible choices. The quizzes worked and rejected wrong answers or bad input. The JavaScript
+prompt method was used with a recursive function. The pass mark was set to 4 out of 5, but this is easily changed.
 
 ## Deployment
 
-The website was deployed on the 16th April 2023 using GitHub pages. The site was found to be responsive and all links worked, including the image links to the data hosting site. Wireframes and development images were used to tweak layout, while two YouTube video links and four pictures that were found to reduce performance using Page Speed Insights were removed. 
+The website was deployed on the 16th April 2023 using GitHub pages. The site was found to be responsive and all links worked, including the image links to 
+the data hosting site. Wireframes and development images were used to tweak layout, while two YouTube video links and four pictures that were found to reduce 
+performance were removed. The Google fonts link were successful. Bootstrap framework for flex-containers and buttons worked well. Font Awesome supplied the 
+icons using a v6.4 kit. CSS styling linked through GitHub worked as did the scripts. The Jotform contact form worked and users have submitted messages.
    
 ## Validation
    
-    <!--- end of validation --->
-    <!--- wireframes --->
+Validation was used from the W3 html and css validation websites, while JavaScript was tested using JS Hint (screenshots below). Pagespeed Insights was 
+used to test for accessibility for each page using mobile and desktop results. All pages cleared accessibility tests on mobiles and desktops, each scoring 100.
    
 ## Wireframes
-Fifteen wireframes were made using the website Balsamiq. They encompassed iPhone, browser and iPad. Three are
-shown below. As can be seen, while some pages have not changed much, others have lost videos or images,
-mainly for performance issues.
 
+Fifteen wireframes were made using the website Balsamiq. They show images for an iPhone, desktop browser and iPad. Six are shown below. As can be seen, 
+while some pages have not changed much, others have lost videos or images, mainly for performance issues. Indeed the title has changed and lost the 'is' for brevity.
 
-
-
->  
+ 
 
 ## Credits
 
