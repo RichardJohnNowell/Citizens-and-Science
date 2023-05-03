@@ -1,6 +1,12 @@
 <!--- start of readme --->
 
-# CITIZEN SCIENCE FOR EVERYONE!
+#                                               CITIZEN SCIENCE FOR EVERYONE!
+
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/four_csfe_screens.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/four_csfe_screens.jpg?raw=true" width="350" height="175" id="four_csfe_screens" title="four_csfe_screens" alt="four_csfe_screens">
+        </a>
+</div>
 
 <!--- table of contents --->
 
