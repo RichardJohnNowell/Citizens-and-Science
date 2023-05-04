@@ -27,7 +27,8 @@
 * [Validation](#validation)
 * [Wireframes](#wireframes)
 * [Credits](#credits)
-* 
+
+
 <!--- end of table of contents --->
 <!--- page line --->
 --- 
@@ -313,7 +314,7 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
 <!--- testing --->
     
 ## Testing
-The website was assembled using HTML5, CSS3 and JS2015. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod
+The website was assembled using HTML5, CSS3 and JavaScript ES6. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod
 a lot more this time than in the previous project for clarity and to practise in a more professional setting. The website was continously tested during
 its build with W3 validations, PageSpeed Insights and JSHint. No AI was used in the construction of the code.
 
@@ -562,5 +563,4 @@ while some pages have not changed much, others have lost videos or images, mainl
    </ul>
 </div>
 
-    <!--- end of credits --->
-    <!--- end of readme --->
+<!--- end --->
