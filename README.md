@@ -182,6 +182,12 @@ astronomy through CS and many other volunteers' results have
 made their way into real published sceince. The two YouTube
 videos can inform potential citizen scientists about what might be available.
 Each are around 5 or 6 minutes long.
+        
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-activities-quiz.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-activities-quiz.jpg?raw=true" width="350" height=""  title="csfe-activities-quiz" id="csfe-activities-quiz" alt="csfe-activities-quiz">
+        </a>
+</div>
 
 The 8 citizen science projects are:
 <div align="left">
@@ -226,6 +232,12 @@ a rare astronomical object which is named after her.
 
 Certainly the quiz on this page needs some
 knowledge of the studies linked to!
+   
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-achievements-quiz.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-achievements-quiz.jpg?raw=true" width="350" height="" title="csfe-achievements-quiz" id="csfe-achievements-quiz"  alt="csfe-achievements-quiz">
+        </a>
+</div>
 
 The eight academic studies are:
 <div align="left">
@@ -263,9 +275,13 @@ to the Wikipedia article "Citizen Science". This is a large article and the quiz
 which is a good way to introduce people to the larger picture.
 
 There is also a Jotform should you wish to enquire more about any aspect of the website.
-    <!--- end of contacts >
-    <!--- footer --->
-    
+        
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-contacts-quiz.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-contacts-quiz.jpg?raw=true" width="350" height="" title="csfe-contacts-quiz" id="csfe-contacts-quiz"  alt="csfe-contacts-quiz">
+        </a>
+</div>
+
 ### Footer
 <p>While there is no organisation that can be linked to, three links are given to Facebook, Twitter and Instagram. Image below:</p>
 <div align="center">
