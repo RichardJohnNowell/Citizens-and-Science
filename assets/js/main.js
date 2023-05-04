@@ -1,9 +1,5 @@
 // start of activities page quiz
-// an array of read-only questions and answers
-
-//let btn = document.getElementById("citizenQuizAct");
-//btn.addEventListener("click", alertMe);
-
+// an array of questions and answers
 const citizenQuestionsAct = [
     { answer: "C", question: "If you wanted to help clean-up marine plastic? \nA - The Wildlife Trusts\nB - National Geographic\nC - Ocean Cleanup"},
     { answer: "B", question: "If you wanted to help monitor urban woodsmoke pollution? \nA - UK Centre for Hydrology\nB - Citizen Sensing\nC - Guardian Vacations"},
@@ -11,33 +7,27 @@ const citizenQuestionsAct = [
     { answer: "C", question: "if you wanted to count butterflies \nA - Ocean Cleanup\nB - Flooding Resilience\nC - UK Center"},
     { answer: "B", question: "if you are in Cheshire and wanted to find reptiles? \nA - Guardian Vacations\nB - the Wildlife Trusts\nc - National Geographic"}
 ];
-  // function citizenQuiz and Activities page
+  // end of array
+  // start of recursive function
   function citizenQuizAct() {
      let score = 0;
       // forEach array method
      citizenQuestionsAct.forEach((question) => {
       // window.prompt method
      let answer = prompt(question.question + "\nAnswer: ");
-     //    if input is A,B,C or a,b,c, then continue. If it is not, then alert ("Please enter A, B or C").   
-     //    if (answer === [A,B,C]) {
-     //    answer = true;
-     //    } else {
-     //      alert("Please enter A, B or C");
-     //    }
+      // letter input lowercase to uppercase
        if (answer.toUpperCase() === question.answer) {
        score = score + 1;
        alert("Your answer is correct. Your score is currently " + score);
      } else {
-       alert("Sorry, your answer is not correct.");
+       alert("Your answer is not correct or has invalid input.");
      }
    });
      // score accumulator
     if (score >= 3) {
-      alert("Nice one! You have passed " + score);
+      alert("Congratulations! You have passed " + score);
     } else {
       alert("Sorry, you did not pass " + score);
     }
   }
-
-
 //end
