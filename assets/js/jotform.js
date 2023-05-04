@@ -1,3 +1,5 @@
+// code provided by JotForm which has passed JSHint validation.
+
 var ifr = document.getElementById("JotFormIFrame-230943552692360");
 if (ifr) {
   var src = ifr.src;
