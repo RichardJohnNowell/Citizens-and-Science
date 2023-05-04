@@ -11,7 +11,6 @@
 <!--- table of contents --->
 
 
-
 ## Contents
 * [Introduction](#introduction)
 * [Expectations](#expectations)
@@ -28,6 +27,7 @@
 * [Validation](#validation)
 * [Wireframes](#wireframes)
 * [Credits](#credits)
+* 
 <!--- end of table of contents --->
 <!--- page line --->
 --- 
@@ -52,8 +52,9 @@ via a desktop (like myself) or those who want to get outside and get water sampl
 for instance. There are links to academic studies for those who want to join in or who 
 are sceptical about whether anything is worthwhile: as I explain, hard cash is used
 to fund this scientific work.
+
 <!--- end of introduction --->
-<!--- user expectations --->
+<!--- expectations --->
 
 ## Expectations
 
@@ -64,6 +65,7 @@ local, national or international collaboration. I spent a few years as
 teacher, so I know something about education and its challenges and rewards.
 Please use the links: they will become very important when trying to
 answer the three quizzes!
+
 <!--- end of expectations --->
  <!--- user experience --->
  
@@ -76,6 +78,8 @@ answer the three quizzes!
         </li>
         <li>Paragraphs within pages are sensibly organised with a logical procession of subjects.
         </li>
+        <li> Headers are given to different sections for clarity.
+        </li>
         <li>All pictures are 'clickable'. When clicked on, images expand to their full size.
         </li>
         <li>The three quizes use a pop-up format, wth the first two concerned with the website, and a third concerned with the
@@ -85,6 +89,8 @@ answer the three quizzes!
         </li>
         <li>The YouTube videos demonstrate different aspects of citizen science.
         </li>
+        <li>The website has been made to include semantic coding for screen readers and the partially-sighted.
+        </li>
     </ul>
 </div>
 <p> The colour scheme is based around a blue colour and complimentary colours, as below:</p>
@@ -93,6 +99,8 @@ answer the three quizzes!
             <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-colours.jpg?raw=true" width="350" height="127" id="csfe_colours" title="csfe_colours" alt="csfe_colours">
             </a>
 <div>
+        
+<!--- end of user experience --->
 
 <!--- features --->
 
@@ -131,6 +139,8 @@ term comes from. It will pose questions such as:
         </li>
     </ul>
 </div>
+        
+<!--- end of homepage --->
 <!--- interviews --->
 
 ### Interviews
@@ -144,17 +154,17 @@ term comes from. It will pose questions such as:
 
 <p>
 I asked three friends I have got to know over the decades since 2007 and how they feel about CS.
-Alice Sheppard works for University College London's geography dept. She is the community lead for the EXCITe project and as such meets
+Alice Sheppard works for University College London's geography dept. She is the community manager for the ExCiteS project and as such meets
 a lot of interested people. I first met Alice through a series of social events for citizens as a result of Galaxy Zoo. Alice was the moderator
 on the Galaxy Zoo forum and we took part in discovering rare
 galaxies. In 2009, she even came to speak at my local astronomy club about it, an event that is still on YouTube.
 </p>
 <p>
-Ine Theunissen lives in the Netherlands and is mainly a supernovae
+Ine Theunissen-Limpens lives in the Netherlands and is mainly a supernovae
 reporter. Indeed, such is Ine's skill in that task he has discovered
 over 130 supernova so far on his own and is on course to become one of the
 Galaxy Zoos' most prolific citizen scientists. While working within the Dutch health system,
-Ine has done more discovering than many professional scientists ever  will.
+Ine has done more discovering than many professional scientists ever will.
 </p>
 <p>
 Christine Macmillan is a moderator on the present incarnation of
@@ -163,6 +173,7 @@ is remarkable and she is always trying to help people become
 better astronomers and scientists. The present GZ attracts
 a wide variety of people and is used by educational establishments.
 </p>
+<!--- end of interviews --->
 <!--- activities --->
 
 ### Activities
@@ -173,16 +184,18 @@ a wide variety of people and is used by educational establishments.
         </a>
 </div>
 
-This page will introduce the reader to the astounding number and range
-of different CS projects and includes a simple quiz to help people
+<p>This page will introduce the reader to the astounding number and range
+of different citizen science projects and includes a simple quiz to help people
 decide what might suit them. From counting butterflies to
 clearing marine plastic, from counting lions and ai pollution monitoring,
 volunteers can and do make a difference. I've made contributions to
-astronomy through CS and many other volunteers' results have
+astronomy through citizen science and many other volunteers' results have
 made their way into real published sceince. The two YouTube
 videos can inform potential citizen scientists about what might be available.
-Each are around 5 or 6 minutes long.
+Each are around 5 or 6 minutes long.</p>
         
+        
+<p>An image of the Activities page quiz.</p>       
 <div align="center">
         <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-activities-quiz.jpg?raw=true">
             <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-activities-quiz.jpg?raw=true" width="350" height=""  title="csfe-activities-quiz" id="csfe-activities-quiz" alt="csfe-activities-quiz">
@@ -210,6 +223,7 @@ The 8 citizen science projects are:
         </li>
     </ol>
 </div>
+<!---  end of activities --->        
 <!--- achievements --->
 
 ### Achievements
@@ -220,7 +234,7 @@ The 8 citizen science projects are:
         </a>
 </div>
 
-A somewhat specialist page that demonstrates that citizens
+This page demonstrates that citizens
 can do real science and the results can be scientifically worthwhile.
 As the opening paragraph points out, if citizen science didn't produce 
 scientifically-accepted results, then no-one would use it. Money
@@ -228,11 +242,11 @@ is spent producing these studies because the results have been
 demontrated time and again. The one YouTube video shows
 how CS can effect ordinary people. Featured is Dutch schoolteacher Hanny van Arkel
 who is a friend who I have met with several times. She discovered
-a rare astronomical object which is named after her. 
+a rare astronomical object which is named after her- "Hanny's Voorwerp". 
+People generally get something out of which ever project they use, though
+having a voorwerp named after you is very special.
 
-Certainly the quiz on this page needs some
-knowledge of the studies linked to!
-   
+<p>An image of the Achievements page quiz.</p>   
 <div align="center">
         <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-achievements-quiz.jpg?raw=true">
             <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-achievements-quiz.jpg?raw=true" width="350" height="" title="csfe-achievements-quiz" id="csfe-achievements-quiz"  alt="csfe-achievements-quiz">
@@ -260,6 +274,8 @@ The eight academic studies are:
         </li>
     </ol>
 </div>
+        
+<!--- end of achievements --->
 <!--- contacts --->
 
 ### Contact
@@ -272,15 +288,19 @@ The eight academic studies are:
 
 The contacts page has a quiz that takes the user via a link
 to the Wikipedia article "Citizen Science". This is a large article and the quiz is difficult,
-which is a good way to introduce people to the larger picture.
+which is a good way to introduce people to the larger picture. Also, it is hoped to introduce users to the many
+different types of citizen science and some of its history.
 
 There is also a Jotform should you wish to enquire more about any aspect of the website.
-        
+
+<p>An image of the Contacts page quiz.</p>
 <div align="center">
         <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-contacts-quiz.jpg?raw=true">
             <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-contacts-quiz.jpg?raw=true" width="350" height="" title="csfe-contacts-quiz" id="csfe-contacts-quiz"  alt="csfe-contacts-quiz">
         </a>
 </div>
+<!--- end of contacts --->
+<!--- footer --->
 
 ### Footer
 <p>While there is no organisation that can be linked to, three links are given to Facebook, Twitter and Instagram. Image below:</p>
@@ -289,7 +309,8 @@ There is also a Jotform should you wish to enquire more about any aspect of the 
             <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-footer.jpg?raw=true" width="334" height="165" title="csfe-browser-footer" id="csfe-browser-footer"  alt="csfe-browser-footer">
         </a>
 </div>
-
+<!--- end of footer --->
+<!--- testing --->
     
 ## Testing
 The website was assembled using HTML5, CSS3 and JS2015. I used the desktop program Microsoft VS code and online Gitpod. I used Gitpod
@@ -301,15 +322,21 @@ a 24" separate desktop screen. Three browsers Firefox, Chrome and MS Edge were c
 This displayed the images well, though some of the styling looked odd.
 
 With the code at the present time, no bugs were found. Performance suffered on the pages with embedded YouTube links. All links were found to work using
-the buttons provided. The 3 quizzes have 5 questions each with 3 possible choices. The quizzes worked and rejected wrong answers or bad input. The JavaScript
-prompt method was used with a recursive function. The pass mark was set to 4 out of 5, but this is easily changed.
-
+the buttons provided. The 3 quizzes have 5 questions each with 3 possible choices. The quizzes worked and rejected wrong answers or invalid input. 
+The pass mark was set to 4 out of 5, but this is easily changed as can the questions.
+        
+<!--- end of testing --->
+<!--- deployment --->
+        
 ## Deployment
 
 The website was deployed on the 16th April 2023 using GitHub pages. The site was found to be responsive and all links worked, including the image links to 
 the data hosting site. Wireframes and development images were used to tweak layout, while two YouTube video links and four pictures that were found to reduce 
 performance were removed. The Google fonts link were successful. Bootstrap framework for flex-containers and buttons worked well. Font Awesome supplied the 
 icons using a v6.4 kit. CSS styling linked through GitHub worked as did the scripts. The Jotform contact form worked and users have submitted messages.
+        
+<!--- end of deployment --->
+<!--- validation --->
    
 ## Validation
    
@@ -417,13 +444,16 @@ used to test for accessibility for each page using mobile and desktop results. A
         <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-pagespeed-insights/csfe-psi-desktop-contacts.jpg?raw=true" width="350" height="162" title="csfe-psi-desktop-contacts" id="csfe-psi-desktop-contacts" alt="csfe-psi-desktop-contacts">
         </a>
 </div>
+        
+<!--- end of validation --->
+<!--- wireframes --->
    
 ## Wireframes
 
 Fifteen wireframes were made using the website Balsamiq. They show images for an iPhone, desktop browser and iPad. Six are shown below. As can be seen, 
 while some pages have not changed much, others have lost videos or images, mainly for performance issues. Indeed the title has changed and lost the 'is' for brevity.
-
-<div>
+<p>Pictures can be clicked on for full size.</p>
+<br>      
 <p>Link to wireframe folders: 
 <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/tree/main/assets/images/csfe-wireframes">csfe-wireframes.
 </a>
@@ -465,6 +495,9 @@ while some pages have not changed much, others have lost videos or images, mainl
             <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-wireframes/csfe-wf-iphone/csfe-wf-iphone-interviews.jpg?raw=true" width="223" height="445" title="csfe-wf-iphone-interviews" id="csfe-wf-iphone-interviews" alt="csfe-wf-iphone-interviews">
         </a>
 </div>
+ 
+<!--- end of wireframes --->
+<!--- credits --->
 
 ## Credits
 
@@ -528,5 +561,6 @@ while some pages have not changed much, others have lost videos or images, mainl
      </a>
    </ul>
 </div>
+
     <!--- end of credits --->
     <!--- end of readme --->
