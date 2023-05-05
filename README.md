@@ -279,7 +279,7 @@ The eight academic studies are:
 <!--- end of achievements --->
 <!--- contacts --->
 
-### Contact
+### Contacts
 
 <div align="center">
         <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/csfe-browser-contacts-page.jpg?raw=true">
