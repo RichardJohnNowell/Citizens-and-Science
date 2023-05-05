@@ -577,6 +577,10 @@ while some pages have not changed much, others have lost videos or images, mainl
      <li> The ISeeChange project is a global community that documents local changes in environment, weather, and climate.
      <a href="https://scistarter.org/nlm/iseechange-nlm" title="ISeeChange" alt="ISeeChange" title="_blank" rel="noopener">Environmental pollution.
      </li>
+     <li> Special thanks to my mentor Rory Sheridan.
+     </li>
+     <li> JavaScript syntax was taken from W3 Schools and Mozilla Developer. Stack Overflow was used for information and checking.
+     </li>        
      </a>
    </ul>
 </div>
