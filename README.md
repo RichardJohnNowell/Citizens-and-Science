@@ -381,8 +381,26 @@ used to test for accessibility for each page using mobile and desktop results. A
 </div>
 
 <div align="center">
-        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jotform-jshint-validation.jpg?raw=true">
-            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jotform-jshint-validation.jpg?raw=true" width="350" height="180" id="csfe-jotform-jshint-validation" title="csfe-jotform-jshint-validation" alt="csfe-jotform-jshint-validation">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-activities-quiz.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-activities-quiz.jpg?raw=true" width="350" height="221" title="csfe-jshint-activities-quiz" id="csfe-jshint-activities-quiz"  alt="csfe-jshint-activities-quiz">
+        </a>
+</div>
+
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-achievements-quiz.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-achievements-quiz.jpg?raw=true" width="350" height="221" title="csfe-jshint-achievements-quiz" id="csfe-jshint-achievements-quiz"  alt="csfe-jshint-achievements-quiz">
+        </a>
+</div>
+
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-wikipedia-quiz.jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-wikipedia-quiz.jpg?raw=true" width="350" height="220" title="csfe-jshint-wikipedia-quiz" id="csfe-jshint-wikipedia-quiz"  alt="csfe-jshint-wikipedia-quiz">
+        </a>
+</div>
+
+<div align="center">
+        <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-jotform(supplied).jpg?raw=true">
+            <img src="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-validation-screenshots/csfe-jshint-jotform(supplied).jpg?raw=true" width="350" height="221" title="csfe-jshint-jotform(supplied)" id="csfe-jshint-jotform(supplied)"  alt="csfe-jshint-jotform(supplied)">
         </a>
 </div>
 
