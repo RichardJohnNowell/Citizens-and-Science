@@ -30,6 +30,7 @@
 
 
 <!--- end of table of contents --->
+<a href="https://richardjohnnowell.github.io/Citizens-and-Science/index.html" title="citizen_science_for_everyone" target="_blank" alt="citizen_science_for_everyone" rel="noopener">Visit Citizen Science For Everyone on Github pages.</a>
 <!--- page line --->
 --- 
 <!--- introduction --->
