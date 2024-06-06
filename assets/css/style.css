@@ -301,6 +301,10 @@ nav ul {
   width: 350px;
 }
 
+#iframe {
+  border-width: 0;
+}
+
 /* ----------------------------------------flexbox */
 .flex-container {
   display: flex;
