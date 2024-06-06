@@ -301,7 +301,9 @@ nav ul {
   width: 350px;
 }
 
-#iframe {
+/* ----------------------------------------iframe */
+
+.iframe {
   border-width: 0;
 }
 
