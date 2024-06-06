@@ -1,375 +1,372 @@
 /* ----------------------------------------start */
 
 body {
-    background-attachment: fixed;
-    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/scientists-at-work_orig.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: black;
-    font-size: 1.0rem;
-    font-weight: 400;
-    line-height: 1.5;
-  }
-  
-  p {
-    margin: auto;
-    text-align: center;
-    width: 88%;
-  }
-  
-  /* ----------------------------------------header */
-  
-  nav a {
-    color: #3c5ab2;
-    display: block;
-    text-decoration: none;
-  }
-  
-  nav a:hover {
-    background-color: #5781ff;
-    border-radius: 4px;
-    color: #e5ff57;
-  }
-  
-  nav li {
-    display: inline-block;
-    font-size: 1.2rem;
-    font-weight: 500;
-    height: 40px;
-    line-height: 40px;
-    margin-left: 7px;
-  }
-  
-  nav ul {
-    border-color: #344d99;
-    border-style: solid;
-    border-radius: 10px;
-    list-style: none;
-    margin: auto;
-    padding-right: 2.2rem;
-    padding-top: 0.5rem;
-    text-align: center;
-  }
-  
-  #topline {
-    color: #0b48ff;
-    letter-spacing: 1px;
-    font-weight: 600;
-  }
+  background-attachment: fixed;
+  background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/scientists-at-work_orig.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
 
-  /* ----------------------------------------headings */
+p {
+  margin: auto;
+  text-align: center;
+  width: 88%;
+}
 
-  #achintro {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #alice {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #christine {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #citizenimages {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
- }
- 
- #citizenimages2 {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
- }
- 
- #citizenimages3 {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
- }
- 
- #contacts {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
- }
- 
- #ecosapiens {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #guide {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #hanny {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #ine {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #intro {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #jotform {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #nsfirst {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #opplinks {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #opportunities {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #published {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #quizach {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #smartphones {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #whatcs {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #wiki {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
- 
- #wyefriends {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
-    text-decoration: underline;
- }
- 
+/* ----------------------------------------header */
+
+nav a {
+  color: #3c5ab2;
+  display: block;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #5781ff;
+  border-radius: 4px;
+  color: #e5ff57;
+}
+
+nav li {
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: 500;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 7px;
+}
+
+nav ul {
+  border-color: #344d99;
+  border-style: solid;
+  border-radius: 10px;
+  list-style: none;
+  margin: auto;
+  padding-right: 2.2rem;
+  padding-top: 0.5rem;
+  text-align: center;
+}
+
+#topline {
+  color: #0b48ff;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+/* ----------------------------------------headings */
+
+#achintro {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#alice {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#christine {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#citizenimages {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+#citizenimages2 {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+#citizenimages3 {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+#contacts {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+#ecosapiens {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#guide {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#hanny {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#ine {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#intro {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#jotform {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#nsfirst {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#opplinks {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#opportunities {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#published {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#quizach {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#smartphones {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#whatcs {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#wiki {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#wyefriends {
+  color: #ff0000;
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: underline;
+}
+
 /* ----------------------------------------interviews */
 
+.interview_questions {
+  color: #0b48ff;
+  font-weight: 500;
+  text-decoration: underline;
+}
 
-  .interview_questions {
-    color: #0b48ff;
-    font-weight: 500;
-    text-decoration: underline;
-  }
+/* ----------------------------------------image_sizing */
 
-  /* ----------------------------------------image_sizing */
+#air-quality-monitoring {
+  height: 237px;
+  width: 350px;
+}
 
-  #grannies-photographing {
-    height: 238px;
-    width: 350px;
-  }
+#cascades-butterfly-project {
+  height: 232px;
+  width: 350px;
+}
 
-  #cascades-butterfly-project {
-    height: 232px;
-    width: 350px;
-  }
+#citizen-astronomers {
+  height: 234px;
+  width: 350px;
+}
 
-  #citizen-astronomers {
-    height: 234px;
-    width: 350px;
-  }
+#citizen-science-communities {
+  height: 237px;
+  width: 350px;
+}
 
-  #citizen-science-communities {
-    height: 237px;
-    width: 350px;
-  }
+#citizen-scientists-examining-plants {
+  height: 233px;
+  width: 350px;
+}
 
-  #citizen-scientists-examining-plants {
-    height: 233px;
-    width: 350px;
-  }
+#couple-with-log-fire {
+  height: 233px;
+  width: 350px;
+}
 
-  #couple-with-log-fire {
-    height: 233px;
-    width: 350px;
-  }
+#first-use {
+  height: 400px;
+  width: 350px;
+}
 
-  #river-restoration-centre {
-    height: 239px;
-    width: 350px;
-  }
+#first-use-of-scientist {
+  height: 201px;
+  width: 350px;
+}
 
-  #iNaturalist-app {
-    height: 239px;
-    width: 350px;
-  }
+#grannies-photographing {
+  height: 238px;
+  width: 350px;
+}
 
-  #first-use {
-    height: 400px;
-    width: 350px;
-  }
+#iNaturalist-app {
+  height: 239px;
+  width: 350px;
+}
 
-  #first-use-of-scientist {
-    height: 201px;
-    width: 350px;
-  }
+#plastic-monitoring-project {
+  height: 237px;
+  width: 350px;
+}
 
-  #plastic-monitoring-project {
-    height: 237px;
-    width: 350px;
-  }
+#river-restoration-centre {
+  height: 239px;
+  width: 350px;
+}
 
-  #air-quality-monitoring {
-    height: 237px;
-    width: 350px
-  }
- 
-  /* ----------------------------------------flexbox */
-  .flex-container {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .flex-container > div {
-    margin: 0.4rem;
-    padding: 1.2rem;
-  }
+/* ----------------------------------------flexbox */
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
 
-  /* ----------------------------------------Quiz */
+.flex-container > div {
+  margin: 0.4rem;
+  padding: 1.2rem;
+}
 
-  .quiz {
-    color: #0b48ff;
-    font-weight: 500;
-    text-decoration: underline;
-  }
+/* ----------------------------------------Quiz */
 
-  /* ----------------------------------------Jotform */
+.quiz {
+  color: #0b48ff;
+  font-weight: 500;
+  text-decoration: underline;
+}
 
-  #JotFormIFrame-230943552692360 {
-    min-width: 100%;
-    max-width: 100%;
-    height: 539px;
-    border: none;
-  }
+/* ----------------------------------------Jotform */
 
-  #jotform_text {
-    color: #0b48ff;
-    font-weight: 500;
-    text-decoration: underline;
-  }
+#JotFormIFrame-230943552692360 {
+  min-width: 100%;
+  max-width: 100%;
+  height: 539px;
+  border: none;
+}
 
-  /* ----------------------------------------footer */
+#jotform_text {
+  color: #0b48ff;
+  font-weight: 500;
+  text-decoration: underline;
+}
 
-  footer {
-    height: 3.0rem;
-  }
-  
-  #websitecredit {
-    color: #0b48ff;
-    font-size: 0.9rem;
-    padding-bottom: 0.5rem;
-    text-align: center;
-  }
+/* ----------------------------------------footer */
 
-  /* ----------------------------------------activities */
+footer {
+  height: 3rem;
+}
 
-  .section_activities {
-    text-align: center;
-  }
+#websitecredit {
+  color: #0b48ff;
+  font-size: 0.9rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+}
 
+/* ----------------------------------------activities */
+
+.section_activities {
+  text-align: center;
+}
 
 /* ----------------------------------------media queries */
 
- @media only screen and (min-width: 601px) {
-     #topline {
-      width: 100%;
-     }
- }
-
-
 @media only screen and (min-width: 601px) {
-  nav ul, p {
-    width: 58%;
+  #topline {
+      width: 100%;
   }
 }
 
+@media only screen and (min-width: 601px) {
+  nav ul,
+  p {
+      width: 58%;
+  }
+}
