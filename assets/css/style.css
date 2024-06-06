@@ -19,10 +19,25 @@ body {
   
   /* ----------------------------------------header */
   
-  #topline {
-    color: #0b48ff;
-    letter-spacing: 1px;
-    font-weight: 600;
+  nav a {
+    color: #3c5ab2;
+    display: block;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #5781ff;
+    border-radius: 4px;
+    color: #e5ff57;
+  }
+  
+  nav li {
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: 500;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 7px;
   }
   
   nav ul {
@@ -36,25 +51,10 @@ body {
     text-align: center;
   }
   
-  nav li {
-    display: inline-block;
-    font-size: 1.2rem;
-    font-weight: 500;
-    height: 40px;
-    line-height: 40px;
-    margin-left: 7px;
-  }
-  
-  nav a {
-    color: #3c5ab2;
-    display: block;
-    text-decoration: none;
-  }
-  
-  nav a:hover {
-    background-color: #5781ff;
-    border-radius: 4px;
-    color: #e5ff57;
+  #topline {
+    color: #0b48ff;
+    letter-spacing: 1px;
+    font-weight: 600;
   }
 
   /* ----------------------------------------headings */
