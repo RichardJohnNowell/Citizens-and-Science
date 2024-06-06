@@ -59,179 +59,178 @@ body {
 
   /* ----------------------------------------headings */
 
-   #intro {   
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-   }
-
-  #citizenimages {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
-  }
-
-  #whatcs {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #guide {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #alice {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #citizenimages2 {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
-  }
-
-  #ine {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #citizenimages3 {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
-  }
-
-  #christine {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #opportunities {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
- }
-
-  #ecosapiens {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #smartphones {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline; 
-  }
-
-  #wyefriends {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 400;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #opplinks {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
   #achintro {
     color: #ff0000;
     font-size: 1.5rem;
     font-weight: 500;
     text-align: center;
     text-decoration: underline;
-   }
-
-  #hanny {
+ }
+ 
+ #alice {
     color: #ff0000;
     font-size: 1.5rem;
     font-weight: 500;
     text-align: center;
     text-decoration: underline;
-  }
-
-  #quizach {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline; 
-  }
-
-  #published {
+ }
+ 
+ #christine {
     color: #ff0000;
     font-size: 1.5rem;
     font-weight: 500;
     text-align: center;
     text-decoration: underline;
-  }
-
-  #nsfirst {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline;
-  }
-
-  #wiki {
-    color: #ff0000;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-align: center;
-    text-decoration: underline; 
-  }
-
-  #contacts {
+ }
+ 
+ #citizenimages {
     color: #ff0000;
     font-size: 1.5rem;
     font-weight: 400;
-    text-align: center; 
-  }
-
-  #jotform {
+    text-align: center;
+ }
+ 
+ #citizenimages2 {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+ }
+ 
+ #citizenimages3 {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+ }
+ 
+ #contacts {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+ }
+ 
+ #ecosapiens {
     color: #ff0000;
     font-size: 1.5rem;
     font-weight: 500;
     text-align: center;
     text-decoration: underline;
-  }
-
-  
+ }
+ 
+ #guide {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #hanny {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #ine {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #intro {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #jotform {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #nsfirst {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #opplinks {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #opportunities {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #published {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #quizach {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #smartphones {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #whatcs {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #wiki {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
+ #wyefriends {
+    color: #ff0000;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: underline;
+ }
+ 
 /* ----------------------------------------interviews */
 
 
