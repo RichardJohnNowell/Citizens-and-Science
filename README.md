@@ -1,6 +1,6 @@
 <!--- start of readme --->
 
-#                                               CITIZEN SCIENCE FOR EVERYONE!
+#                                               Citizen science is for everyone!
 
 <div align="center">
         <a href="https://github.com/RichardJohnNowell/Citizens-and-Science/blob/main/assets/images/csfe-website-images/csfe-browser/four_csfe_screens.jpg?raw=true">
